@@ -751,4 +751,92 @@ F 3 "~" H 6800 4100 50  0001 C CNN
 	1    6800 4100
 	1    0    0    -1  
 $EndComp
+$Comp
+L Mechanical:MountingHole_Pad H1
+U 1 1 61D45B72
+P 3350 6750
+F 0 "H1" H 3450 6799 50  0000 L CNN
+F 1 "MountingHole_Pad" H 3450 6708 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 3350 6750 50  0001 C CNN
+F 3 "~" H 3350 6750 50  0001 C CNN
+	1    3350 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR0106
+U 1 1 61D47E95
+P 3350 6850
+F 0 "#PWR0106" H 3350 6600 50  0001 C CNN
+F 1 "Earth" H 3350 6700 50  0001 C CNN
+F 2 "" H 3350 6850 50  0001 C CNN
+F 3 "~" H 3350 6850 50  0001 C CNN
+	1    3350 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H3
+U 1 1 61D4BB30
+P 3350 7100
+F 0 "H3" H 3450 7149 50  0000 L CNN
+F 1 "MountingHole_Pad" H 3450 7058 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 3350 7100 50  0001 C CNN
+F 3 "~" H 3350 7100 50  0001 C CNN
+	1    3350 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR0114
+U 1 1 61D4BB36
+P 3350 7200
+F 0 "#PWR0114" H 3350 6950 50  0001 C CNN
+F 1 "Earth" H 3350 7050 50  0001 C CNN
+F 2 "" H 3350 7200 50  0001 C CNN
+F 3 "~" H 3350 7200 50  0001 C CNN
+	1    3350 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H2
+U 1 1 61D4EAF9
+P 4350 6750
+F 0 "H2" H 4450 6799 50  0000 L CNN
+F 1 "MountingHole_Pad" H 4450 6708 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4350 6750 50  0001 C CNN
+F 3 "~" H 4350 6750 50  0001 C CNN
+	1    4350 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR0115
+U 1 1 61D4EAFF
+P 4350 6850
+F 0 "#PWR0115" H 4350 6600 50  0001 C CNN
+F 1 "Earth" H 4350 6700 50  0001 C CNN
+F 2 "" H 4350 6850 50  0001 C CNN
+F 3 "~" H 4350 6850 50  0001 C CNN
+	1    4350 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H4
+U 1 1 61D51962
+P 4350 7100
+F 0 "H4" H 4450 7149 50  0000 L CNN
+F 1 "MountingHole_Pad" H 4450 7058 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 4350 7100 50  0001 C CNN
+F 3 "~" H 4350 7100 50  0001 C CNN
+	1    4350 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR0116
+U 1 1 61D51968
+P 4350 7200
+F 0 "#PWR0116" H 4350 6950 50  0001 C CNN
+F 1 "Earth" H 4350 7050 50  0001 C CNN
+F 2 "" H 4350 7200 50  0001 C CNN
+F 3 "~" H 4350 7200 50  0001 C CNN
+	1    4350 7200
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
